@@ -1,4 +1,7 @@
-# elecom-huge-roller-bearings-adapter
+# Eelecom Huge Roller Bearings Adapter
+
+![3D Printed example](adapter-image.JPG "Adapter Image")
+
 This is a 3D printable adapter for the Elecom Huge that lets you replace the static bearings with roller bearings.
 
 This model is not perfect and improvements can be brought to it, that's why I've provided the .step file as well. So anybody could modify and bring additions to it.
